@@ -1,0 +1,1 @@
+This `README.md` section provides instructions for deploying the trained machine learning model, including training the deployment pipeline (`deployment_pipeline.py`) and using the trained model for inference in a deployment environment.
